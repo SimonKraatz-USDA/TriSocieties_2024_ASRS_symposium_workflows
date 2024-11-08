@@ -1,4 +1,4 @@
-# 2024 American Society of Agronomy (ASA) Airborne and Satellite Remote Sensing (ASRS) community Symposium: Cycling through the Cloud(s): Precision Agriculture with Open Satellite Data and Cloud Processing
+# 2024 ASRS community Symposium *Cycling through the Cloud(s): Precision Agriculture with Open Satellite Data and Cloud Processing*
 
 ## Speakers and Materials: 
 
